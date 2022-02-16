@@ -1,0 +1,15 @@
+D:\companytutorial\LinqOperation\bin\Debug\net6.0\LinqOperation.exe
+D:\companytutorial\LinqOperation\bin\Debug\net6.0\LinqOperation.deps.json
+D:\companytutorial\LinqOperation\bin\Debug\net6.0\LinqOperation.runtimeconfig.json
+D:\companytutorial\LinqOperation\bin\Debug\net6.0\LinqOperation.dll
+D:\companytutorial\LinqOperation\bin\Debug\net6.0\ref\LinqOperation.dll
+D:\companytutorial\LinqOperation\bin\Debug\net6.0\LinqOperation.pdb
+D:\companytutorial\LinqOperation\obj\Debug\net6.0\LinqOperation.csproj.AssemblyReference.cache
+D:\companytutorial\LinqOperation\obj\Debug\net6.0\LinqOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\companytutorial\LinqOperation\obj\Debug\net6.0\LinqOperation.AssemblyInfoInputs.cache
+D:\companytutorial\LinqOperation\obj\Debug\net6.0\LinqOperation.AssemblyInfo.cs
+D:\companytutorial\LinqOperation\obj\Debug\net6.0\LinqOperation.csproj.CoreCompileInputs.cache
+D:\companytutorial\LinqOperation\obj\Debug\net6.0\LinqOperation.dll
+D:\companytutorial\LinqOperation\obj\Debug\net6.0\ref\LinqOperation.dll
+D:\companytutorial\LinqOperation\obj\Debug\net6.0\LinqOperation.pdb
+D:\companytutorial\LinqOperation\obj\Debug\net6.0\LinqOperation.genruntimeconfig.cache
